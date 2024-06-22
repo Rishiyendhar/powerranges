@@ -1,2 +1,1 @@
-This is main power ranges file.
-In this file we will create different colors
+
